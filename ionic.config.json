@@ -1,0 +1,7 @@
+{
+  "name": "travelsUserApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
